@@ -1,4 +1,3 @@
 __author__ = 'CHENYUANYINGSHI'
 
-print('_*_ '*12)
-print([i for i in range(10)])
+print('我是一个python程序\n'*3)
